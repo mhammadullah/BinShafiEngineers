@@ -203,9 +203,7 @@ h1 {
         font-size: 20px;
         max-width: 100vw;
     }
-    .navbar section img{
-        /* display: none; */
-    }
+
 }
 
 .container1 {
@@ -469,9 +467,7 @@ iframe{
         grid-template-columns: repeat(2,1fr);
         
     }
-    .side-bar{
-        display: none;
-    }
+
 }
 @media only screen and (max-width:800px) {
     .container2 .services{
